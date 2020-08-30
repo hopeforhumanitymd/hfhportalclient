@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hfhportalclient/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hfhportalclient/static/js/main.da6fb726.chunk.js",
+    "main.js.map": "/hfhportalclient/static/js/main.da6fb726.chunk.js.map",
+    "runtime-main.js": "/hfhportalclient/static/js/runtime-main.daa565cb.js",
+    "runtime-main.js.map": "/hfhportalclient/static/js/runtime-main.daa565cb.js.map",
+    "static/js/2.43c131ac.chunk.js": "/hfhportalclient/static/js/2.43c131ac.chunk.js",
+    "static/js/2.43c131ac.chunk.js.map": "/hfhportalclient/static/js/2.43c131ac.chunk.js.map",
+    "index.html": "/hfhportalclient/index.html",
+    "precache-manifest.a89a97c70c8f48e99f33c79efee0b940.js": "/hfhportalclient/precache-manifest.a89a97c70c8f48e99f33c79efee0b940.js",
+    "service-worker.js": "/hfhportalclient/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hfhportalclient/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.43c131ac.chunk.js.LICENSE.txt": "/hfhportalclient/static/js/2.43c131ac.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hfhportalclient/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daa565cb.js",
+    "static/js/2.43c131ac.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.da6fb726.chunk.js"
+  ]
+}
